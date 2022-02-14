@@ -1,2 +1,2 @@
 # Offer-javascript
-JavaScript版本的剑指offer题解
+JavaScript版本的个人剑指offer解题记录
